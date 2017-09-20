@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinners", "Spinners.csproj", "{C69DC63E-AFC0-49AD-08F3-D6278D38A522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinners.Plugins", "Spinners.Plugins.csproj", "{492038EC-7793-0303-771E-FBB47DA9C318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinners.Editor.Plugins", "Spinners.Editor.Plugins.csproj", "{89D77F4D-1464-FCD2-3F11-2633494EAC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69DC63E-AFC0-49AD-08F3-D6278D38A522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69DC63E-AFC0-49AD-08F3-D6278D38A522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69DC63E-AFC0-49AD-08F3-D6278D38A522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69DC63E-AFC0-49AD-08F3-D6278D38A522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492038EC-7793-0303-771E-FBB47DA9C318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492038EC-7793-0303-771E-FBB47DA9C318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492038EC-7793-0303-771E-FBB47DA9C318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492038EC-7793-0303-771E-FBB47DA9C318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D77F4D-1464-FCD2-3F11-2633494EAC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D77F4D-1464-FCD2-3F11-2633494EAC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D77F4D-1464-FCD2-3F11-2633494EAC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D77F4D-1464-FCD2-3F11-2633494EAC93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
